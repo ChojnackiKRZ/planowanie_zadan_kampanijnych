@@ -29,3 +29,6 @@ def define_end_date():
 
 def define_if_risk():
     pass
+
+def publish_data():
+    pass
